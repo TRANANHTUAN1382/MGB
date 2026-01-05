@@ -1,0 +1,21 @@
+
+.custom-typography-header {
+    font-family: 'Bangers', system-ui;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 40px;
+    line-height: 100%;
+    letter-spacing: 0%;
+    text-align: center;
+    text-transform: uppercase;
+    color: rgba(95, 82, 60, 1) ;
+}
+
+/* Thêm hiệu ứng màu sắc cho giống với theme của hãng */
+.custom-typography-header.red-variant {
+   color: rgba(95, 82, 60, 1) ;
+}
+
+.custom-typography-header.gold-variant {
+    color: #f6d000;
+}
